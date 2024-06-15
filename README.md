@@ -3,10 +3,11 @@
 [![Quality checks status](https://github.com/undergroundwires/Azure-in-bullet-points/workflows/Quality%20checks/badge.svg)](https://github.com/undergroundwires/Azure-in-bullet-points/actions)
 [![GitHub sponsors](https://undergroundwires.dev/img/badges/donate/flat.svg)](https://undergroundwires.dev/donate?project=Azure-in-bullet-points)
 
-- This repo contains my study notes for different Azure exams.
+- This repo contains study notes for different Azure exams.
 - The notes are comprehensive and written with goal of covering all exam areas.
-  - I passed all of the exams with these notes.
-- Good luck & enjoy studying! ☕
+- Good luck & enjoy studying!
+  
+- Cheers!☕
 
 ## Content
 
